@@ -61,19 +61,7 @@ This project uses:
 - Roboto
 
 Remember to configure them in `pubspec.yaml`.
-
-## Screenshot
-
-(Add your app screenshot here)
-
-```markdown
-![screenshot](assets/screenshot.png)
-```
-
-## Author
-
-- GitHub: Zot012
-- Name: 林維祥 (ZOT)
+---
 
 ## License
 
