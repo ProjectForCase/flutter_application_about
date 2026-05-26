@@ -1,17 +1,80 @@
-# flutter_application_about
+# About Me App
 
-A new Flutter project.
+A simple Flutter personal introduction application.
+
+## Features
+
+- Personal profile section
+- Avatar display
+- About Me card
+- Skills horizontal list
+- Contact information
+- Custom fonts and UI styling
+
+## Built With
+
+- Flutter
+- Dart
+- Material Design
+
+## Project Structure
+
+```text
+lib/
+ └── main.dart
+assets/
+ └── profile.png
+```
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Requirements
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
+- Android Studio / VS Code
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Run the Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
+
+## Assets
+
+Make sure your image asset is configured in `pubspec.yaml`.
+
+Example:
+
+```yaml
+flutter:
+  assets:
+    - assets/profile.png
+```
+
+## Fonts
+
+This project uses:
+
+- Playfair Display
+- Roboto
+
+Remember to configure them in `pubspec.yaml`.
+
+## Screenshot
+
+(Add your app screenshot here)
+
+```markdown
+![screenshot](assets/screenshot.png)
+```
+
+## Author
+
+- GitHub: Zot012
+- Name: 林維祥 (ZOT)
+
+## License
+
+This project is for learning purposes.
